@@ -1,0 +1,4 @@
+flask==2.3.3
+earthengine-api==0.1.374
+gunicorn==21.2.0
+google-auth==2.23.4
